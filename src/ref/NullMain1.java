@@ -33,6 +33,6 @@ public class NullMain1 {
         System.out.println("bigData.data = " + bigData.data);
         System.out.println("bigData.data.value = " + bigData.data.value);
 
-        System.out.println("bigData = " + bigData);
+        System.out.println("bigData =  " + bigData);
     }
 }
